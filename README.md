@@ -1,12 +1,12 @@
 xml2map
-===
+=======
 
-support node >= 0.11
+support io.js & node >= 0.11
 
 ## Installment
 
 ```bash
-$ sudo npm install xml2map -g
+$ npm i -g xml2map
 ```
 
 ## Quick Start
