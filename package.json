@@ -1,7 +1,7 @@
 {
   "name": "xml2map",
   "version": "1.0.1",
-  "description": "xml2map",
+  "description": "Highly performant xml parser",
   "bin": {
     "xml2map": "./bin/xml2map"
   },
