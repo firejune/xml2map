@@ -1,6 +1,6 @@
 {
   "name": "xml2map",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Highly performant xml parser",
   "bin": {
     "xml2map": "./bin/xml2map"
@@ -14,7 +14,7 @@
     "xml-writer": ">=1.0.4",
     "sax": "=0.4.2"
   },
-  "keywords": ["xml2map","xml","json","json2xml","xml2json"],
+  "keywords": ["xml2map", "xml", "json", "json2xml", "xml2json"],
   "devDependencies": {
     "mocha": "*"
   },
